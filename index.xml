@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的第一个博客</title>
-    <link>http://192.168.1.133:1313/</link>
-    <description>Recent content on 我的第一个博客</description>
+    <title>记录代码,记录生活,记录自己</title>
+    <link>http://qxiong133.github.io/</link>
+    <description>Recent content on 记录代码,记录生活,记录自己</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Feb 2016 09:27:33 +0000</lastBuildDate>
-    <atom:link href="http://192.168.1.133:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://qxiong133.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>todolist</title>
-      <link>http://192.168.1.133:1313/todolist/</link>
+      <link>http://qxiong133.github.io/todolist/</link>
       <pubDate>Tue, 02 Feb 2016 09:27:33 +0000</pubDate>
       
-      <guid>http://192.168.1.133:1313/todolist/</guid>
+      <guid>http://qxiong133.github.io/todolist/</guid>
       <description>
 
 &lt;h1 id=&#34;my-todo-list:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;my todo list&lt;/h1&gt;
@@ -68,10 +68,10 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
     
     <item>
       <title>hugo</title>
-      <link>http://192.168.1.133:1313/hugo/</link>
+      <link>http://qxiong133.github.io/hugo/</link>
       <pubDate>Tue, 02 Feb 2016 08:53:03 +0000</pubDate>
       
-      <guid>http://192.168.1.133:1313/hugo/</guid>
+      <guid>http://qxiong133.github.io/hugo/</guid>
       <description>
 
 &lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
@@ -80,19 +80,19 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
     
     <item>
       <title>first</title>
-      <link>http://192.168.1.133:1313/post/first/</link>
+      <link>http://qxiong133.github.io/post/first/</link>
       <pubDate>Thu, 19 Nov 2015 17:38:14 +0800</pubDate>
       
-      <guid>http://192.168.1.133:1313/post/first/</guid>
+      <guid>http://qxiong133.github.io/post/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>文章的开头</title>
-      <link>http://192.168.1.133:1313/about/</link>
+      <link>http://qxiong133.github.io/about/</link>
       <pubDate>Thu, 19 Nov 2015 17:05:47 +0800</pubDate>
       
-      <guid>http://192.168.1.133:1313/about/</guid>
+      <guid>http://qxiong133.github.io/about/</guid>
       <description>
 
 &lt;h2 id=&#34;标题一:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;标题一&lt;/h2&gt;
