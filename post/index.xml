@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://qxiong133.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 我的第一个博客</title>
+    <link>http://192.168.1.133:1313/post/</link>
+    <description>Recent content in Posts on 我的第一个博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Nov 2015 17:38:14 +0800</lastBuildDate>
-    <atom:link href="http://qxiong133.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.133:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>http://qxiong133.github.io/post/first/</link>
+      <link>http://192.168.1.133:1313/post/first/</link>
       <pubDate>Thu, 19 Nov 2015 17:38:14 +0800</pubDate>
       
-      <guid>http://qxiong133.github.io/post/first/</guid>
+      <guid>http://192.168.1.133:1313/post/first/</guid>
       <description></description>
     </item>
     

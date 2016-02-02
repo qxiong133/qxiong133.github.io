@@ -2,18 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://qxiong133.github.io/</loc>
-    <lastmod>2015-11-19T17:38:14+08:00</lastmod>
+    <loc>http://192.168.1.133:1313/</loc>
+    <lastmod>2016-02-02T09:27:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://qxiong133.github.io/post/first/</loc>
+    <loc>http://192.168.1.133:1313/todolist/</loc>
+    <lastmod>2016-02-02T09:27:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.133:1313/hugo/</loc>
+    <lastmod>2016-02-02T08:53:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.1.133:1313/post/first/</loc>
     <lastmod>2015-11-19T17:38:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://qxiong133.github.io/about/</loc>
+    <loc>http://192.168.1.133:1313/about/</loc>
     <lastmod>2015-11-19T17:05:47+08:00</lastmod>
   </url>
   
