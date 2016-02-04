@@ -5,57 +5,18 @@
     <link>http://qxiong133.github.io/</link>
     <description>Recent content on 记录代码,记录生活,记录自己</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 04 Feb 2016 05:36:39 +0000</lastBuildDate>
+    <language>en-EN</language>
+    <managingEditor>qxiong133@163.com (codejoyer)</managingEditor>
+    <webMaster>qxiong133@163.com (codejoyer)</webMaster>
+    <copyright>版权(c) 2016 xcodejoyer.</copyright>
+    <lastBuildDate>Thu, 04 Feb 2016 07:51:07 +0000</lastBuildDate>
     <atom:link href="http://qxiong133.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>1</title>
-      <link>http://qxiong133.github.io/new_concept/2/1/</link>
-      <pubDate>Thu, 04 Feb 2016 05:36:39 +0000</pubDate>
-      
-      <guid>http://qxiong133.github.io/new_concept/2/1/</guid>
-      <description>&lt;p&gt;new concept&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>nginx_study</title>
-      <link>http://qxiong133.github.io/nginx_study/</link>
-      <pubDate>Wed, 03 Feb 2016 07:41:21 +0000</pubDate>
-      
-      <guid>http://qxiong133.github.io/nginx_study/</guid>
-      <description>
-
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
-and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;nginx学习资源汇总:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
-
-&lt;p&gt;《深入理解Nginx &amp;ndash; 模块开发与架构解析》 （注：超级精彩的一本书，入门必备）&lt;/p&gt;
-
-&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
-
-&lt;p&gt;使用下面的地址进行编译，另外保存一份到了网盘
-&lt;a href=&#34;http://nginx.org/download/nginx-1.0.15.tar.gz&#34;&gt;http://nginx.org/download/nginx-1.0.15.tar.gz&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;从学习nginx的upstream模块-lua:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
-
-&lt;h1 id=&#34;深入upstream模块:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;深入upstream模块&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://tengine.taobao.org/book/&#34;&gt;http://tengine.taobao.org/book/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
-</description>
-    </item>
     
     <item>
       <title>todolist</title>
       <link>http://qxiong133.github.io/todolist/</link>
-      <pubDate>Tue, 02 Feb 2016 09:27:33 +0000</pubDate>
-      
+      <pubDate>Thu, 04 Feb 2016 07:51:07 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
       <guid>http://qxiong133.github.io/todolist/</guid>
       <description>
 
@@ -115,11 +76,53 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
     </item>
     
     <item>
+      <title>1</title>
+      <link>http://qxiong133.github.io/new_concept/2/1/</link>
+      <pubDate>Thu, 04 Feb 2016 05:36:39 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/new_concept/2/1/</guid>
+      <description>&lt;p&gt;new concept&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nginx_study</title>
+      <link>http://qxiong133.github.io/source/nginx_study/</link>
+      <pubDate>Wed, 03 Feb 2016 07:41:21 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/source/nginx_study/</guid>
+      <description>
+
+&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
+and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;nginx学习资源汇总&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
+
+&lt;p&gt;《深入理解Nginx &amp;ndash; 模块开发与架构解析》 （注：超级精彩的一本书，入门必备）&lt;/p&gt;
+
+&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;使用下面的地址进行编译，另外保存一份到了网盘
+&lt;a href=&#34;http://nginx.org/download/nginx-1.0.15.tar.gz&#34;&gt;http://nginx.org/download/nginx-1.0.15.tar.gz&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;从学习nginx的upstream模块-lua&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
+
+&lt;h1 id=&#34;深入upstream模块&#34;&gt;深入upstream模块&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tengine.taobao.org/book/&#34;&gt;http://tengine.taobao.org/book/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>hugo</title>
-      <link>http://qxiong133.github.io/hugo/</link>
+      <link>http://qxiong133.github.io/tools/hugo/</link>
       <pubDate>Tue, 02 Feb 2016 08:53:03 +0000</pubDate>
-      
-      <guid>http://qxiong133.github.io/hugo/</guid>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/tools/hugo/</guid>
       <description>
 
 &lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
@@ -127,24 +130,14 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
     </item>
     
     <item>
-      <title>文章的开头</title>
+      <title>关于未来</title>
       <link>http://qxiong133.github.io/about/</link>
       <pubDate>Thu, 19 Nov 2015 17:05:47 +0800</pubDate>
-      
+      <author>qxiong133@163.com (codejoyer)</author>
       <guid>http://qxiong133.github.io/about/</guid>
       <description>
 
-&lt;h2 id=&#34;标题一:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;标题一&lt;/h2&gt;
-
-&lt;p&gt;我真牛逼&lt;/p&gt;
-
-&lt;h2 id=&#34;标题二:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;标题二&lt;/h2&gt;
-
-&lt;p&gt;我真牛逼&lt;/p&gt;
-
-&lt;h2 id=&#34;标题三:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;标题三&lt;/h2&gt;
-
-&lt;p&gt;我真牛逼&lt;/p&gt;
+&lt;h2 id=&#34;未来:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
 </description>
     </item>
     

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on 记录代码,记录生活,记录自己</title>
+    <link>http://qxiong133.github.io/tools/</link>
+    <description>Recent content in Tools on 记录代码,记录生活,记录自己</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>qxiong133@163.com (codejoyer)</managingEditor>
+    <webMaster>qxiong133@163.com (codejoyer)</webMaster>
+    <copyright>版权(c) 2016 xcodejoyer.</copyright>
+    <lastBuildDate>Tue, 02 Feb 2016 08:53:03 +0000</lastBuildDate>
+    <atom:link href="http://qxiong133.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hugo</title>
+      <link>http://qxiong133.github.io/tools/hugo/</link>
+      <pubDate>Tue, 02 Feb 2016 08:53:03 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/tools/hugo/</guid>
+      <description>
+
+&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
