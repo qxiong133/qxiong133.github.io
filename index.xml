@@ -20,28 +20,28 @@
       <guid>http://qxiong133.github.io/todolist/</guid>
       <description>
 
-&lt;h1 id=&#34;daily-7-8-5-11&#34;&gt;daily:7,8,5,11&lt;/h1&gt;
+&lt;h1 id=&#34;daily-7-8-5-11:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;daily:7,8,5,11&lt;/h1&gt;
 
-&lt;h1 id=&#34;tools-6-4-15-9-10&#34;&gt;tools:6,4,15,9,10,&lt;/h1&gt;
+&lt;h1 id=&#34;tools-6-4-15-9-10:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;tools:6,4,15,9,10,&lt;/h1&gt;
 
-&lt;h1 id=&#34;source-2-3&#34;&gt;source:2,3&lt;/h1&gt;
+&lt;h1 id=&#34;source-2-3:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;source:2,3&lt;/h1&gt;
 
-&lt;h1 id=&#34;jobs-1&#34;&gt;jobs:1&lt;/h1&gt;
+&lt;h1 id=&#34;jobs-1:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;jobs:1&lt;/h1&gt;
 
-&lt;h2 id=&#34;1-colleague-zhangjian-s-ansible-script-nginx-proxy-pip-vanish&#34;&gt;1. colleague zhangjian&amp;rsquo;s ansible script + nginx proxy pip + vanish&lt;/h2&gt;
+&lt;h2 id=&#34;1-colleague-zhangjian-s-ansible-script-nginx-proxy-pip-vanish:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;1. colleague zhangjian&amp;rsquo;s ansible script + nginx proxy pip + vanish&lt;/h2&gt;
 
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
 and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;3-gunicore-nsq-codis&#34;&gt;3. gunicore +  nsq + codis&lt;/h2&gt;
+&lt;h2 id=&#34;3-gunicore-nsq-codis:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;3. gunicore +  nsq + codis&lt;/h2&gt;
 
-&lt;h2 id=&#34;4-shortcut-of-spf13-s-all-pulgins-git-address-https-github-com-spf13-spf13-vim&#34;&gt;4. shortcut of spf13&amp;rsquo;s all pulgins &lt;a href=&#34;https://github.com/spf13/spf13-vim&#34;&gt;git address&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;4-shortcut-of-spf13-s-all-pulgins-git-address-https-github-com-spf13-spf13-vim:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;4. shortcut of spf13&amp;rsquo;s all pulgins &lt;a href=&#34;https://github.com/spf13/spf13-vim&#34;&gt;git address&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;5-kernel-compiler&#34;&gt;5. kernel + compiler&lt;/h2&gt;
+&lt;h2 id=&#34;5-kernel-compiler:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;5. kernel + compiler&lt;/h2&gt;
 
-&lt;h2 id=&#34;6-banwagon-vpn-ansible-deploy&#34;&gt;6. banwagon vpn ansible deploy&lt;/h2&gt;
+&lt;h2 id=&#34;6-banwagon-vpn-ansible-deploy:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;6. banwagon vpn ansible deploy&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;shadowsocks server&lt;/li&gt;
@@ -50,27 +50,27 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 &lt;a href=&#34;https://github.com/leucos/ansible-tuto&#34;&gt;ansible-tuto&lt;/a&gt; and &lt;a href=&#34;https://github.com/ftao/vpn-deploy-playbook&#34;&gt;vpn-deploy-playbook&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;7-沪江-百词-new-concept&#34;&gt;7. 沪江 + 百词 + new concept&lt;/h2&gt;
+&lt;h2 id=&#34;7-沪江-百词-new-concept:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;7. 沪江 + 百词 + new concept&lt;/h2&gt;
 
-&lt;h2 id=&#34;8-develop-news&#34;&gt;8. develop news&lt;/h2&gt;
+&lt;h2 id=&#34;8-develop-news:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;8. develop news&lt;/h2&gt;
 
-&lt;h2 id=&#34;9-一个u盘备份系统-备份server-package文件到网盘-怎么自动化呢&#34;&gt;9. 一个u盘备份系统/备份server_package文件到网盘,怎么自动化呢&lt;/h2&gt;
+&lt;h2 id=&#34;9-一个u盘备份系统-备份server-package文件到网盘-怎么自动化呢:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;9. 一个u盘备份系统/备份server_package文件到网盘,怎么自动化呢&lt;/h2&gt;
 
-&lt;h2 id=&#34;10-vagrant-libvirt-document-https-github-com-pradels-vagrant-libvirt-kvm-book-about-bridge-network-how-to-write-dockerfile&#34;&gt;10. vagrant_libvirt &lt;a href=&#34;https://github.com/pradels/vagrant-libvirt&#34;&gt;document&lt;/a&gt;/kvm book about bridge network / how to write dockerfile&lt;/h2&gt;
+&lt;h2 id=&#34;10-vagrant-libvirt-document-https-github-com-pradels-vagrant-libvirt-kvm-book-about-bridge-network-how-to-write-dockerfile:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;10. vagrant_libvirt &lt;a href=&#34;https://github.com/pradels/vagrant-libvirt&#34;&gt;document&lt;/a&gt;/kvm book about bridge network / how to write dockerfile&lt;/h2&gt;
 
-&lt;h2 id=&#34;11-leetcode-just-for-fun-algorithm-competition-zenguofan&#34;&gt;11. leetcode/just for fun/algorithm competition/ zenguofan&lt;/h2&gt;
+&lt;h2 id=&#34;11-leetcode-just-for-fun-algorithm-competition-zenguofan:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;11. leetcode/just for fun/algorithm competition/ zenguofan&lt;/h2&gt;
 
-&lt;h2 id=&#34;12-markdown-http-wowubuntu-com-markdown-index-html-header&#34;&gt;12. &lt;a href=&#34;http://wowubuntu.com/markdown/index.html#header&#34;&gt;markdown&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;12-markdown-http-wowubuntu-com-markdown-index-html-header:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;12. &lt;a href=&#34;http://wowubuntu.com/markdown/index.html#header&#34;&gt;markdown&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.zybuluo.com/mdeditor&#34;&gt;Cmd Markdown 编辑阅读器&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;13-machine-leaning&#34;&gt;13. machine leaning&lt;/h2&gt;
+&lt;h2 id=&#34;13-machine-leaning:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;13. machine leaning&lt;/h2&gt;
 
-&lt;h2 id=&#34;14-grogs-drone-docker&#34;&gt;14. grogs + drone + docker&lt;/h2&gt;
+&lt;h2 id=&#34;14-grogs-drone-docker:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;14. grogs + drone + docker&lt;/h2&gt;
 
-&lt;h2 id=&#34;15-xmonad-tmux-vim-firefox-pentadactyl-zeal&#34;&gt;15. xmonad + tmux + vim + firefox + pentadactyl + zeal&lt;/h2&gt;
+&lt;h2 id=&#34;15-xmonad-i3-http-www-draconianoverlord-com-2014-05-26-from-xmonad-to-i3-html-is-the-better-tmux-vim-firefox-pentadactyl-zeal:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;15. xmonad/&lt;a href=&#34;http://www.draconianoverlord.com/2014/05/26/from-xmonad-to-i3.html&#34;&gt;i3&lt;/a&gt; is the better + tmux + vim + firefox + pentadactyl + zeal&lt;/h2&gt;
 
-&lt;h2 id=&#34;archlinx-awesome-window-manager-vimperator-firfox-idea-vim-plugin&#34;&gt;archlinx + awesome window manager + vimperator firfox + idea vim plugin&lt;/h2&gt;
+&lt;h2 id=&#34;archlinx-awesome-window-manager-vimperator-firfox-idea-vim-plugin:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;archlinx + awesome window manager + vimperator firfox + idea vim plugin&lt;/h2&gt;
 </description>
     </item>
     
@@ -92,27 +92,27 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/source/nginx_study/</guid>
       <description>
 
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
 and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;nginx学习资源汇总&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
+&lt;h2 id=&#34;nginx学习资源汇总:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
 
 &lt;p&gt;《深入理解Nginx &amp;ndash; 模块开发与架构解析》 （注：超级精彩的一本书，入门必备）&lt;/p&gt;
 
-&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;使用下面的地址进行编译，另外保存一份到了网盘
 &lt;a href=&#34;http://nginx.org/download/nginx-1.0.15.tar.gz&#34;&gt;http://nginx.org/download/nginx-1.0.15.tar.gz&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;从学习nginx的upstream模块-lua&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
+&lt;h1 id=&#34;从学习nginx的upstream模块-lua:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
 
-&lt;h1 id=&#34;深入upstream模块&#34;&gt;深入upstream模块&lt;/h1&gt;
+&lt;h1 id=&#34;深入upstream模块:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;深入upstream模块&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://tengine.taobao.org/book/&#34;&gt;http://tengine.taobao.org/book/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
+&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
 </description>
     </item>
     
@@ -124,7 +124,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/tools/hugo/</guid>
       <description>
 
-&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
