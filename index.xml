@@ -20,7 +20,7 @@
       <guid>http://qxiong133.github.io/ideas/</guid>
       <description>
 
-&lt;h2 id=&#34;个人想法:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;个人想法&lt;/h2&gt;
+&lt;h2 id=&#34;个人想法&#34;&gt;个人想法&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;编程大赛&lt;/li&gt;
@@ -35,78 +35,75 @@
     </item>
     
     <item>
-      <title>todolist</title>
+      <title>TODO</title>
       <link>http://qxiong133.github.io/todolist/</link>
       <pubDate>Thu, 04 Feb 2016 07:51:07 +0000</pubDate>
       <author>qxiong133@163.com (codejoyer)</author>
       <guid>http://qxiong133.github.io/todolist/</guid>
       <description>
 
-&lt;h1 id=&#34;daily-7-8-5-11&#34;&gt;daily:7,8,5,11&lt;/h1&gt;
+&lt;h3 id=&#34;daily&#34;&gt;daily:&lt;/h3&gt;
 
-&lt;h1 id=&#34;tools-6-4-15-9-10&#34;&gt;tools:6,4,15,9,10,&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;body exercise + song + 百词 + algorithm competition + 沪江 + new concept +  develop news&lt;/li&gt;
+&lt;li&gt;mathematical modeling + kernel + compiler + tcp/ip + db&lt;/li&gt;
+&lt;li&gt;leetcode/just for fun/algorithm competition/ zenguofan&lt;/li&gt;
+&lt;li&gt;machine leaning&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h1 id=&#34;source-2-3&#34;&gt;source:2,3&lt;/h1&gt;
+&lt;h3 id=&#34;tools-6-4-15-9-10&#34;&gt;tools:6,4,15,9,10,&lt;/h3&gt;
 
-&lt;h1 id=&#34;jobs-1&#34;&gt;jobs:1&lt;/h1&gt;
-
-&lt;h2 id=&#34;1-colleague-zhangjian-s-ansible-script-nginx-proxy-pip-vanish&#34;&gt;1. colleague zhangjian&amp;rsquo;s ansible script + nginx proxy pip + vanish&lt;/h2&gt;
-
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
-and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;3-gunicore-nsq-codis&#34;&gt;3. gunicore +  nsq + codis&lt;/h2&gt;
-
-&lt;h2 id=&#34;4-shortcut-of-spf13-s-all-pulgins-git-address-https-github-com-spf13-spf13-vim&#34;&gt;4. shortcut of spf13&amp;rsquo;s all pulgins &lt;a href=&#34;https://github.com/spf13/spf13-vim&#34;&gt;git address&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;5-mathematical-modeling-kernel-compiler-tcp-ip-db&#34;&gt;5. mathematical modeling + kernel + compiler + tcp/ip + db&lt;/h2&gt;
-
-&lt;h2 id=&#34;6-banwagon-vpn-ansible-deploy&#34;&gt;6. banwagon vpn ansible deploy&lt;/h2&gt;
-
-&lt;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;4. shortcut of spf13&amp;rsquo;s all pulgins &lt;a href=&#34;https://github.com/spf13/spf13-vim&#34;&gt;git address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;6. banwagon vpn ansible deploy&lt;/li&gt;
 &lt;li&gt;shadowsocks server&lt;/li&gt;
 &lt;li&gt;pptp vpn&lt;/li&gt;
-&lt;li&gt;learn &lt;a href=&#34;http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_special_topics.html&#34;&gt;ansible&lt;/a&gt;
-&lt;a href=&#34;https://github.com/leucos/ansible-tuto&#34;&gt;ansible-tuto&lt;/a&gt; and &lt;a href=&#34;https://github.com/ftao/vpn-deploy-playbook&#34;&gt;vpn-deploy-playbook&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
 
-&lt;h2 id=&#34;7-沪江-百词-new-concept&#34;&gt;7. 沪江 + 百词 + new concept&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;learn &lt;a href=&#34;http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_special_topics.html&#34;&gt;ansible&lt;/a&gt;
+&lt;a href=&#34;https://github.com/leucos/ansible-tuto&#34;&gt;ansible-tuto&lt;/a&gt; and &lt;a href=&#34;https://github.com/ftao/vpn-deploy-playbook&#34;&gt;vpn-deploy-playbook&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;8-develop-news&#34;&gt;8. develop news&lt;/h2&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;xmonad/&lt;a href=&#34;http://www.draconianoverlord.com/2014/05/26/from-xmonad-to-i3.html&#34;&gt;i3&lt;/a&gt; is the better + tmux + vim + firefox + pentadactyl + zeal&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;9-一个u盘备份系统-备份server-package文件到网盘-怎么自动化呢&#34;&gt;9. 一个u盘备份系统/备份server_package文件到网盘,怎么自动化呢&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;i3: &lt;a href=&#34;https://xpressrazor.wordpress.com/2014/01/27/introduction-to-i3/&#34;&gt;Introduction to i3&lt;/a&gt; and &lt;a href=&#34;https://www.linux.com/learn/tutorials/766143-how-to-use-the-superfast-i3-tiling-window-manager-on-linux&#34;&gt;How to Use the Super Fast i3 Tiling Window Manager on Linux &lt;/a&gt;
+&lt;a href=&#34;https://i3wm.org/docs/userguide.html&#34;&gt;i3 User’s Guide&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;10-vagrant-libvirt-document-https-github-com-pradels-vagrant-libvirt-kvm-book-about-bridge-network-how-to-write-dockerfile&#34;&gt;10. vagrant_libvirt &lt;a href=&#34;https://github.com/pradels/vagrant-libvirt&#34;&gt;document&lt;/a&gt;/kvm book about bridge network / how to write dockerfile&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;archlinx + awesome window manager + vimperator firfox + idea vim plugin&lt;/p&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;11-leetcode-just-for-fun-algorithm-competition-zenguofan&#34;&gt;11. leetcode/just for fun/algorithm competition/ zenguofan&lt;/h2&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;一个u盘备份系统/备份server_package文件到网盘,怎么自动化呢&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;12-markdown-http-wowubuntu-com-markdown-index-html-header&#34;&gt;12. &lt;a href=&#34;http://wowubuntu.com/markdown/index.html#header&#34;&gt;markdown&lt;/a&gt;&lt;/h2&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;vagrant_libvirt &lt;a href=&#34;https://github.com/pradels/vagrant-libvirt&#34;&gt;document&lt;/a&gt;/kvm book about bridge network / how to write dockerfile&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.zybuluo.com/mdeditor&#34;&gt;Cmd Markdown 编辑阅读器&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;grogs + drone + docker&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;13-machine-leaning&#34;&gt;13. machine leaning&lt;/h2&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://wowubuntu.com/markdown/index.html#header&#34;&gt;markdown&lt;/a&gt;
+&lt;a href=&#34;https://www.zybuluo.com/mdeditor&#34;&gt;Cmd Markdown 编辑阅读器&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&#34;14-grogs-drone-docker&#34;&gt;14. grogs + drone + docker&lt;/h2&gt;
+&lt;h3 id=&#34;source-2-3&#34;&gt;source:2,3&lt;/h3&gt;
 
-&lt;h2 id=&#34;15-xmonad-i3-http-www-draconianoverlord-com-2014-05-26-from-xmonad-to-i3-html-is-the-better-tmux-vim-firefox-pentadactyl-zeal&#34;&gt;15. xmonad/&lt;a href=&#34;http://www.draconianoverlord.com/2014/05/26/from-xmonad-to-i3.html&#34;&gt;i3&lt;/a&gt; is the better + tmux + vim + firefox + pentadactyl + zeal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;
+&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
+and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;3. gunicore +  nsq + codis&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&#34;i3-introduction-to-i3-https-xpressrazor-wordpress-com-2014-01-27-introduction-to-i3-and-how-to-use-the-super-fast-i3-tiling-window-manager-on-linux-https-www-linux-com-learn-tutorials-766143-how-to-use-the-superfast-i3-tiling-window-manager-on-linux&#34;&gt;i3: &lt;a href=&#34;https://xpressrazor.wordpress.com/2014/01/27/introduction-to-i3/&#34;&gt;Introduction to i3&lt;/a&gt; and &lt;a href=&#34;https://www.linux.com/learn/tutorials/766143-how-to-use-the-superfast-i3-tiling-window-manager-on-linux&#34;&gt;How to Use the Super Fast i3 Tiling Window Manager on Linux &lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;jobs&#34;&gt;jobs:&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://i3wm.org/docs/userguide.html&#34;&gt;i3 User’s Guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;archlinx-awesome-window-manager-vimperator-firfox-idea-vim-plugin&#34;&gt;archlinx + awesome window manager + vimperator firfox + idea vim plugin&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>http://qxiong133.github.io/new_concept/2/1/</link>
-      <pubDate>Thu, 04 Feb 2016 05:36:39 +0000</pubDate>
-      <author>qxiong133@163.com (codejoyer)</author>
-      <guid>http://qxiong133.github.io/new_concept/2/1/</guid>
-      <description>&lt;p&gt;new concept&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1. colleague zhangjian&amp;rsquo;s ansible script + nginx proxy pip + vanish&lt;/li&gt;
+&lt;li&gt;2. 交易系统架构&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -150,7 +147,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/tools/hugo/</guid>
       <description>
 
-&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
