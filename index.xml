@@ -9,8 +9,30 @@
     <managingEditor>qxiong133@163.com (codejoyer)</managingEditor>
     <webMaster>qxiong133@163.com (codejoyer)</webMaster>
     <copyright>版权(c) 2016 xcodejoyer.</copyright>
-    <lastBuildDate>Thu, 04 Feb 2016 07:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 07:49:08 +0000</lastBuildDate>
     <atom:link href="http://qxiong133.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ideas</title>
+      <link>http://qxiong133.github.io/ideas/</link>
+      <pubDate>Thu, 18 Feb 2016 07:49:08 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/ideas/</guid>
+      <description>
+
+&lt;h2 id=&#34;个人想法&#34;&gt;个人想法&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;编程大赛&lt;/li&gt;
+&lt;li&gt;写书&lt;/li&gt;
+&lt;li&gt;演讲&lt;/li&gt;
+&lt;li&gt;一个提供服务的网站&lt;/li&gt;
+&lt;li&gt;培训机构兼职&lt;/li&gt;
+&lt;li&gt;刷题提升目前工作&lt;/li&gt;
+&lt;li&gt;elance/freelance&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>todolist</title>
@@ -39,7 +61,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 
 &lt;h2 id=&#34;4-shortcut-of-spf13-s-all-pulgins-git-address-https-github-com-spf13-spf13-vim:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;4. shortcut of spf13&amp;rsquo;s all pulgins &lt;a href=&#34;https://github.com/spf13/spf13-vim&#34;&gt;git address&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;5-kernel-compiler:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;5. kernel + compiler&lt;/h2&gt;
+&lt;h2 id=&#34;5-mathematical-modeling-kernel-compiler-tcp-ip-db:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;5. mathematical modeling + kernel + compiler + tcp/ip + db&lt;/h2&gt;
 
 &lt;h2 id=&#34;6-banwagon-vpn-ansible-deploy:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;6. banwagon vpn ansible deploy&lt;/h2&gt;
 
@@ -96,27 +118,27 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/source/nginx_study/</guid>
       <description>
 
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
 and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;nginx学习资源汇总:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
+&lt;h2 id=&#34;nginx学习资源汇总&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
 
 &lt;p&gt;《深入理解Nginx &amp;ndash; 模块开发与架构解析》 （注：超级精彩的一本书，入门必备）&lt;/p&gt;
 
-&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;使用下面的地址进行编译，另外保存一份到了网盘
 &lt;a href=&#34;http://nginx.org/download/nginx-1.0.15.tar.gz&#34;&gt;http://nginx.org/download/nginx-1.0.15.tar.gz&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;从学习nginx的upstream模块-lua:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
+&lt;h1 id=&#34;从学习nginx的upstream模块-lua&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
 
-&lt;h1 id=&#34;深入upstream模块:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;深入upstream模块&lt;/h1&gt;
+&lt;h1 id=&#34;深入upstream模块&#34;&gt;深入upstream模块&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://tengine.taobao.org/book/&#34;&gt;http://tengine.taobao.org/book/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
+&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
 </description>
     </item>
     

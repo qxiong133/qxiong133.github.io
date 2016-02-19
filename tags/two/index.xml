@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Two on 记录代码,记录生活,记录自己</title>
+    <link>http://qxiong133.github.io/tags/two/</link>
+    <description>Recent content in Two on 记录代码,记录生活,记录自己</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>qxiong133@163.com (codejoyer)</managingEditor>
+    <webMaster>qxiong133@163.com (codejoyer)</webMaster>
+    <copyright>版权(c) 2016 xcodejoyer.</copyright>
+    <lastBuildDate>Thu, 18 Feb 2016 07:49:08 +0000</lastBuildDate>
+    <atom:link href="http://qxiong133.github.io/tags/two/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ideas</title>
+      <link>http://qxiong133.github.io/ideas/</link>
+      <pubDate>Thu, 18 Feb 2016 07:49:08 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/ideas/</guid>
+      <description>
+
+&lt;h2 id=&#34;个人想法&#34;&gt;个人想法&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;编程大赛&lt;/li&gt;
+&lt;li&gt;写书&lt;/li&gt;
+&lt;li&gt;演讲&lt;/li&gt;
+&lt;li&gt;一个提供服务的网站&lt;/li&gt;
+&lt;li&gt;培训机构兼职&lt;/li&gt;
+&lt;li&gt;刷题提升目前工作&lt;/li&gt;
+&lt;li&gt;elance/freelance&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
