@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on 记录代码,记录生活,记录自己</title>
+    <link>http://qxiong133.github.io/research/</link>
+    <description>Recent content in Researches on 记录代码,记录生活,记录自己</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>qxiong133@163.com (codejoyer)</managingEditor>
+    <webMaster>qxiong133@163.com (codejoyer)</webMaster>
+    <copyright>版权(c) 2016 xcodejoyer.</copyright>
+    <lastBuildDate>Fri, 04 Mar 2016 10:32:46 +0000</lastBuildDate>
+    <atom:link href="http://qxiong133.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tsp</title>
+      <link>http://qxiong133.github.io/research/tsp/</link>
+      <pubDate>Fri, 04 Mar 2016 10:32:46 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/research/tsp/</guid>
+      <description>
+
+&lt;h2 id=&#34;tsp-problem&#34;&gt;TSP PROBLEM&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/optimization/routing/tsp&#34;&gt;Traveling Salesman Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dmishin/tsp-solver&#34;&gt;python tsp 源码&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.csdn.net/elite_2007/article/details/2253745&#34;&gt;旅行商问题的n种解法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
