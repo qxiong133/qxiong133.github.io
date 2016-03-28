@@ -9,8 +9,30 @@
     <managingEditor>qxiong133@163.com (codejoyer)</managingEditor>
     <webMaster>qxiong133@163.com (codejoyer)</webMaster>
     <copyright>版权(c) 2016 xcodejoyer.</copyright>
-    <lastBuildDate>Fri, 04 Mar 2016 10:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2016 05:45:54 +0000</lastBuildDate>
     <atom:link href="http://qxiong133.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tools</title>
+      <link>http://qxiong133.github.io/tools/draft/</link>
+      <pubDate>Thu, 24 Mar 2016 05:45:54 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/tools/draft/</guid>
+      <description>
+
+&lt;h2 id=&#34;tmux-shortcut-tmux-shortcuts-cheatsheet-https-gist-github-com-mohamedalaa-2961058:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;tmux shortcut&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;tmux shortcuts &amp;amp; cheatsheet&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;chroot-with-yum-how-to-build-a-chroot-jail-environment-for-centos-http-geek-co-il-2010-03-14-how-to-build-a-chroot-jail-environment-for-centos:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;chroot with yum &lt;a href=&#34;http://geek.co.il/2010/03/14/how-to-build-a-chroot-jail-environment-for-centos&#34;&gt;How to build a chroot jail environment for CentOS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;frontend:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;frontend&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;https://gist.github.com/MohamedAlaa/2961058&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/icepy/_posts/issues/12?hmsr=toutiao.io&amp;amp;utm_medium=toutiao.io&amp;amp;utm_source=toutiao.io&#34;&gt;https://github.com/icepy/_posts/issues/12?hmsr=toutiao.io&amp;amp;utm_medium=toutiao.io&amp;amp;utm_source=toutiao.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/docs/tutorial.html&#34;&gt;react&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>tsp</title>
@@ -20,7 +42,7 @@
       <guid>http://qxiong133.github.io/research/tsp/</guid>
       <description>
 
-&lt;h2 id=&#34;tsp-problem&#34;&gt;TSP PROBLEM&lt;/h2&gt;
+&lt;h2 id=&#34;tsp-problem:ebe5be44c2c036762f3f67360b0559ee&#34;&gt;TSP PROBLEM&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://developers.google.com/optimization/routing/tsp&#34;&gt;Traveling Salesman Problem&lt;/a&gt;&lt;/li&gt;
@@ -38,7 +60,7 @@
       <guid>http://qxiong133.github.io/ideas/</guid>
       <description>
 
-&lt;h2 id=&#34;个人想法:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;个人想法&lt;/h2&gt;
+&lt;h2 id=&#34;个人想法&#34;&gt;个人想法&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;编程大赛&lt;/li&gt;
@@ -50,7 +72,7 @@
 &lt;li&gt;elance/freelance&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;算法之路:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;算法之路&lt;/h2&gt;
+&lt;h2 id=&#34;算法之路&#34;&gt;算法之路&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/35485418&#34;&gt;leetcode 中有哪些题的解法让你拍案叫绝&lt;/a&gt; provider right answer&lt;/li&gt;
@@ -100,16 +122,17 @@
       <guid>http://qxiong133.github.io/todolist/</guid>
       <description>
 
-&lt;h3 id=&#34;daily:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;daily:&lt;/h3&gt;
+&lt;h3 id=&#34;daily&#34;&gt;daily:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;body exercise + song + 百词 + algorithm competition + 沪江 + new concept +  develop news&lt;/li&gt;
 &lt;li&gt;mathematical modeling + kernel + compiler + tcp/ip + db&lt;/li&gt;
 &lt;li&gt;leetcode/just for fun/algorithm competition/ zenguofan&lt;/li&gt;
 &lt;li&gt;machine leaning&lt;/li&gt;
+&lt;li&gt;sicp&lt;a href=&#34;http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/?from=timeline&amp;amp;isappinstalled=0&#34;&gt;learn sicp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;tools-6-4-15-9-10:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;tools:6,4,15,9,10,&lt;/h3&gt;
+&lt;h3 id=&#34;tools-6-4-15-9-10&#34;&gt;tools:6,4,15,9,10,&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;4. shortcut of spf13&amp;rsquo;s all pulgins &lt;a href=&#34;https://github.com/spf13/spf13-vim&#34;&gt;git address&lt;/a&gt;&lt;/li&gt;
@@ -147,7 +170,7 @@
 &lt;/ol&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;source-2-3:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;source:2,3&lt;/h3&gt;
+&lt;h3 id=&#34;source-2-3&#34;&gt;source:2,3&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;
@@ -158,7 +181,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 &lt;li&gt;5. lua解释器&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;jobs:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;jobs:&lt;/h3&gt;
+&lt;h3 id=&#34;jobs&#34;&gt;jobs:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;1. colleague zhangjian&amp;rsquo;s ansible script + nginx proxy pip + vanish&lt;/li&gt;
@@ -175,27 +198,27 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/source/nginx_study/</guid>
       <description>
 
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
 and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;nginx学习资源汇总:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
+&lt;h2 id=&#34;nginx学习资源汇总&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
 
 &lt;p&gt;《深入理解Nginx &amp;ndash; 模块开发与架构解析》 （注：超级精彩的一本书，入门必备）&lt;/p&gt;
 
-&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;使用下面的地址进行编译，另外保存一份到了网盘
 &lt;a href=&#34;http://nginx.org/download/nginx-1.0.15.tar.gz&#34;&gt;http://nginx.org/download/nginx-1.0.15.tar.gz&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;从学习nginx的upstream模块-lua:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
+&lt;h1 id=&#34;从学习nginx的upstream模块-lua&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
 
-&lt;h1 id=&#34;深入upstream模块:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;深入upstream模块&lt;/h1&gt;
+&lt;h1 id=&#34;深入upstream模块&#34;&gt;深入upstream模块&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://tengine.taobao.org/book/&#34;&gt;http://tengine.taobao.org/book/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
+&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
 </description>
     </item>
     
@@ -219,7 +242,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/about/</guid>
       <description>
 
-&lt;h2 id=&#34;未来&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
+&lt;h2 id=&#34;未来:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
 </description>
     </item>
     

@@ -9,8 +9,30 @@
     <managingEditor>qxiong133@163.com (codejoyer)</managingEditor>
     <webMaster>qxiong133@163.com (codejoyer)</webMaster>
     <copyright>版权(c) 2016 xcodejoyer.</copyright>
-    <lastBuildDate>Tue, 02 Feb 2016 08:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2016 05:45:54 +0000</lastBuildDate>
     <atom:link href="http://qxiong133.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tools</title>
+      <link>http://qxiong133.github.io/tools/draft/</link>
+      <pubDate>Thu, 24 Mar 2016 05:45:54 +0000</pubDate>
+      <author>qxiong133@163.com (codejoyer)</author>
+      <guid>http://qxiong133.github.io/tools/draft/</guid>
+      <description>
+
+&lt;h2 id=&#34;tmux-shortcut-tmux-shortcuts-cheatsheet-https-gist-github-com-mohamedalaa-2961058:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;tmux shortcut&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;tmux shortcuts &amp;amp; cheatsheet&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;chroot-with-yum-how-to-build-a-chroot-jail-environment-for-centos-http-geek-co-il-2010-03-14-how-to-build-a-chroot-jail-environment-for-centos:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;chroot with yum &lt;a href=&#34;http://geek.co.il/2010/03/14/how-to-build-a-chroot-jail-environment-for-centos&#34;&gt;How to build a chroot jail environment for CentOS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;frontend:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;frontend&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;https://gist.github.com/MohamedAlaa/2961058&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/icepy/_posts/issues/12?hmsr=toutiao.io&amp;amp;utm_medium=toutiao.io&amp;amp;utm_source=toutiao.io&#34;&gt;https://github.com/icepy/_posts/issues/12?hmsr=toutiao.io&amp;amp;utm_medium=toutiao.io&amp;amp;utm_source=toutiao.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/docs/tutorial.html&#34;&gt;react&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>hugo</title>
