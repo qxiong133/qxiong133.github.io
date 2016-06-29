@@ -43,7 +43,7 @@
     },
     "datePublished": "2016-02-04",
     "description": "",
-    "wordCount":  168 
+    "wordCount":  322 
   }
 </script>
 
@@ -157,17 +157,17 @@
   <div class="container content">
   
 
-<h3 id="daily">daily:</h3>
+<h3 id="daily:3f2b4cca1726280b934fa7ea156766d2">daily:</h3>
 
 <ul>
-<li>body exercise + song + 百词 + algorithm competition + 沪江 + new concept +  develop news</li>
-<li>mathematical modeling + kernel + compiler + tcp/ip + db</li>
+<li>body exercise + song + 知米 + algorithm competition + 知米listen + new concept +  develop news</li>
+<li>mathematical modeling + kernel + compiler + tcp/ip/http + db</li>
 <li>leetcode/just for fun/algorithm competition/ zenguofan</li>
 <li>machine leaning</li>
 <li>sicp<a href="http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/?from=timeline&amp;isappinstalled=0">learn sicp</a></li>
 </ul>
 
-<h3 id="tools-6-4-15-9-10">tools:6,4,15,9,10,</h3>
+<h3 id="tools-6-4-15-9-10:3f2b4cca1726280b934fa7ea156766d2">tools:6,4,15,9,10,</h3>
 
 <ul>
 <li>4. shortcut of spf13&rsquo;s all pulgins <a href="https://github.com/spf13/spf13-vim">git address</a></li>
@@ -205,10 +205,10 @@
 </ol></li>
 </ul>
 
-<h3 id="source-2-3">source:2,3</h3>
+<h3 id="source-2-3:3f2b4cca1726280b934fa7ea156766d2">source:2,3</h3>
 
 <ul>
-<li>2. nginx + openresty <a href="https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11">agentzh nginx</a>
+<li>2. nginx + openresty (开发一个openresty c plugin)<a href="https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11">agentzh nginx</a>
 <a href="https://www.zhihu.com/question/20857459">如何高效的学习Nginx源码</a> <a href="https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html">OpenResty最佳实践</a>
 and <a href="https://github.com/jianfengye/nginx-1.0.14_comment">nginx-1.0.14_comment</a></li>
 <li>3. gunicore +  nsq + codis</li>
@@ -216,17 +216,89 @@ and <a href="https://github.com/jianfengye/nginx-1.0.14_comment">nginx-1.0.14_co
 <li>5. lua解释器</li>
 </ul>
 
-<h3 id="jobs">jobs:</h3>
+<h3 id="jobs:3f2b4cca1726280b934fa7ea156766d2">jobs:</h3>
 
 <ul>
-<li>1. colleague zhangjian&rsquo;s ansible script + nginx proxy pip + vanish</li>
-<li>2. 交易系统架构
+<li><ol>
+<li>colleague zhangjian&rsquo;s ansible script + nginx proxy pip + vanish</li>
+</ol>
+
+<ul>
+<li>dev machine 使用chroot实现开发环境隔离  可以玩玩lfs</li>
+<li>opserver  运维中控机  缓存 静态文件 中控ansible  openrest&ndash;api gateway</li>
+<li>app  bootstrap react django</li>
+<li>online service  es nsq codis mysql_proxy&hellip;</li>
+<li>data service hadoop spark</li>
+<li>tools service gogs dron.io wiki &hellip;</li>
+</ul></li>
+
+<li><ol>
+<li>交易系统架构</li>
+</ol>
 
 <ul>
 <li><a href="http://wenku.baidu.com/view/7daa609d376baf1ffd4fad09.html">美团支付平台产品规划——4月26日</a></li>
 <li><a href="http://www.slideshare.net/meituan/07-62250372">美团点评技术沙龙07 - 大众点评支付渠道网关系统实践</a></li>
 <li><a href="http://tech.meituan.com/high-availability-systems-dianping.html">高可用性系统在大众点评的实践与经验</a></li>
 <li><a href="http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html">大众点评支付渠道网关系统的实践之路</a></li>
+</ul></li>
+
+<li><p>bootstrap + react + nginx lua + django + nsq</p>
+
+<ul>
+<li>django core
+
+<ul>
+<li>fileupload</li>
+<li>imageupload to db with thumbnail</li>
+<li>session login + token login + weixin login</li>
+<li>xadmin</li>
+<li>input serializer and output serilaizer and with swagger doc</li>
+<li>xadmin</li>
+<li>django tdd + mock + factory + factory init db data to qality assurance</li>
+<li>django migration</li>
+<li>benchmark</li>
+<li>perfomance(1.setting slow sql switch open 2. every fun&rsquo;s time consume)
+
+<ul>
+<li><a href="http://www.morethanseven.net/2011/06/30/Django-performance-1-measuring-performance/">Django Performance Patterns 1: Measuring Performance</a>
+
+<ul>
+<li>这里面使用profiling middleware是我们需要的 可以分析接口的每个函数的调用已经消耗的时间</li>
+<li><a href="https://code.djangoproject.com/wiki/ProfilingDjango">Profiling Django</a></li>
+</ul></li>
+</ul></li>
+<li>review django document and restful document</li>
+</ul></li>
+</ul></li>
+
+<li><p>c swig compile</p></li>
+
+<li><p>np problem</p></li>
+
+<li><p>增长黑客书   增长黑客工具 (微博用户 微信用户 qq用户 淘宝用户) google广告插件/baidu/阿里  阿里云服务通过淘宝买8.5折扣</p></li>
+
+<li><p>博客</p>
+
+<ul>
+<li>如何写技术设计文档 在谷歌文档里面</li>
+<li>流程和渠道的设计模式 控制反转ioc 依赖注入di<br />
+
+<ul>
+<li><a href="http://laravelacademy.org/post/769.html">Laravel 服务容器实例教程 —— 深入理解控制反转（IoC）和依赖注入（DI）</a></li>
+<li>这边需要一个processon.com的uml图   todo</li>
+</ul></li>
+</ul></li>
+
+<li><p>日本的几本书</p></li>
+
+<li><p>产品 运营 bp books</p></li>
+
+<li><p>大数据基础服务  +  广告策略服务 + 反垃圾  + 运维</p>
+
+<ul>
+<li>ansible 部署 haddoop spark</li>
+<li>小米的运维系统</li>
 </ul></li>
 </ul>
 
