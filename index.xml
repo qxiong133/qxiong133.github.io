@@ -42,7 +42,7 @@
       <guid>http://qxiong133.github.io/research/tsp/</guid>
       <description>
 
-&lt;h2 id=&#34;tsp-problem:ebe5be44c2c036762f3f67360b0559ee&#34;&gt;TSP PROBLEM&lt;/h2&gt;
+&lt;h2 id=&#34;tsp-problem&#34;&gt;TSP PROBLEM&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://developers.google.com/optimization/routing/tsp&#34;&gt;Traveling Salesman Problem&lt;/a&gt;&lt;/li&gt;
@@ -60,7 +60,7 @@
       <guid>http://qxiong133.github.io/ideas/</guid>
       <description>
 
-&lt;h2 id=&#34;个人想法&#34;&gt;个人想法&lt;/h2&gt;
+&lt;h2 id=&#34;个人想法:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;个人想法&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;编程大赛&lt;/li&gt;
@@ -73,7 +73,7 @@
 &lt;li&gt;一个开源项目 + 视频教学&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;算法之路&#34;&gt;算法之路&lt;/h2&gt;
+&lt;h2 id=&#34;算法之路:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;算法之路&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/35485418&#34;&gt;leetcode 中有哪些题的解法让你拍案叫绝&lt;/a&gt; provider right answer&lt;/li&gt;
@@ -103,13 +103,14 @@
 
 &lt;blockquote&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1433399/&#34;&gt;Introduction to Algorithms&lt;/a&gt; todo&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1475870/&#34;&gt;Algorithm Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1433399/&#34;&gt;Introduction to Algorithms&lt;/a&gt;算法导论&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1475870/&#34;&gt;Algorithm Design&lt;/a&gt; &lt;a href=&#34;https://book.douban.com/subject/2035809/&#34;&gt;算法设计&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/10436668/&#34;&gt;Cracking the Coding Interview&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/6872527/&#34;&gt;Cracking the Coding Interview: 150 Programming Questions and Solutions(5th edition)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Learn Python the Hard way&lt;/li&gt;
 &lt;li&gt;秋叶拓哉-挑战程序设计竞赛, 刘汝佳翻译的-挑战编程：程序设计竞赛训练手册&lt;/li&gt;
 &lt;li&gt;刘汝佳 算法竞赛入门经典&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/4048566/&#34;&gt;算法设计手册&lt;/a&gt; &lt;a href=&#34;https://book.douban.com/subject/3072383/&#34;&gt;The Algorithm Design Manual&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 </description>
@@ -123,7 +124,7 @@
       <guid>http://qxiong133.github.io/todolist/</guid>
       <description>
 
-&lt;h3 id=&#34;daily&#34;&gt;daily:&lt;/h3&gt;
+&lt;h3 id=&#34;daily:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;daily:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;body exercise + song + &lt;strong&gt;知米&lt;/strong&gt; + algorithm competition + 知米listen + new concept +  develop news&lt;/li&gt;
@@ -133,7 +134,7 @@
 &lt;li&gt;sicp&lt;a href=&#34;http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/?from=timeline&amp;amp;isappinstalled=0&#34;&gt;learn sicp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;tools-6-4-15-9-10&#34;&gt;tools:6,4,15,9,10,&lt;/h3&gt;
+&lt;h3 id=&#34;tools-6-4-15-9-10:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;tools:6,4,15,9,10,&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;4. shortcut of spf13&amp;rsquo;s all pulgins &lt;a href=&#34;https://github.com/spf13/spf13-vim&#34;&gt;git address&lt;/a&gt;&lt;/li&gt;
@@ -171,7 +172,7 @@
 &lt;/ol&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;source-2-3&#34;&gt;source:2,3&lt;/h3&gt;
+&lt;h3 id=&#34;source-2-3:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;source:2,3&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;2. nginx + openresty (开发一个openresty c plugin)&lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;
@@ -187,7 +188,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 &lt;li&gt;6. kernel&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;jobs&#34;&gt;jobs:&lt;/h3&gt;
+&lt;h3 id=&#34;jobs:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;jobs:&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;ol&gt;
@@ -214,9 +215,17 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 &lt;li&gt;&lt;a href=&#34;http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html&#34;&gt;大众点评支付渠道网关系统的实践之路&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;bootstrap + react + nginx lua + django + nsq&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;bootstrap + vuejs + requirejs + vuex + webpack + nginx lua + django + nsq&lt;/p&gt;
 
 &lt;ul&gt;
+&lt;li&gt;bootstrap + vuejs + requirejs + webpack + vuex + bootflat
+
+&lt;ul&gt;
+&lt;li&gt;前端代码组织结构&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sitepoint.com/good-front-end-architecture/&#34;&gt;A Good Front-End Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/vuejs/awesome-vue#tutorials&#34;&gt;vuejs/awesome-vue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;还是使用架手架生成代码框架 vue-cli&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;django core
 
 &lt;ul&gt;
@@ -279,6 +288,14 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 
 &lt;li&gt;&lt;p&gt;翻译技术文章&lt;/p&gt;&lt;/li&gt;
 
+&lt;li&gt;&lt;p&gt;优秀的人才标准 聪明 谦虚 &amp;ndash; 为什么是这个标准 自己如何成为 招人标准 招人学问&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;情商问题 来自知乎的情商提高问题 说话和读书的动机 1情绪的发泄 2理性传播知识 3情感沟通&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;如何定义自己的价值  提升自己cpu结构&amp;ndash;内功 同样的信息输入 有自己的理解产出 并且是有深度且对人有帮助的 而不是信息的传递者&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;如何结交朋友与维系 要求有广度多参加各种活动  有深度 兴趣维系&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;大数据基础服务  +  广告策略服务 + 反垃圾  + 运维&lt;/p&gt;
 
 &lt;ul&gt;
@@ -308,6 +325,24 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 
 &lt;li&gt;&lt;p&gt;从浏览器到内核 人类世界从现实往虚拟迁移&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;blog:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;blog:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;计算机的江湖  技术篇
+道  思维模式 开脑洞 刨根问底 分享 归纳 演绎 分类
+器  操作系统 编译 算法 网络 巩固新的思维模式
+术  工具 技巧&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;计算机的江湖  管理篇
+道  思维模式
+器
+术
+管理者善用你的信任值
+自由 成长的环境
+严纪与活力
+加班问题&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -319,27 +354,27 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/source/nginx_study/</guid>
       <description>
 
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
 and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;nginx学习资源汇总&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
+&lt;h2 id=&#34;nginx学习资源汇总:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
 
 &lt;p&gt;《深入理解Nginx &amp;ndash; 模块开发与架构解析》 （注：超级精彩的一本书，入门必备）&lt;/p&gt;
 
-&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;使用下面的地址进行编译，另外保存一份到了网盘
 &lt;a href=&#34;http://nginx.org/download/nginx-1.0.15.tar.gz&#34;&gt;http://nginx.org/download/nginx-1.0.15.tar.gz&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;从学习nginx的upstream模块-lua&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
+&lt;h1 id=&#34;从学习nginx的upstream模块-lua:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
 
-&lt;h1 id=&#34;深入upstream模块&#34;&gt;深入upstream模块&lt;/h1&gt;
+&lt;h1 id=&#34;深入upstream模块:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;深入upstream模块&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://tengine.taobao.org/book/&#34;&gt;http://tengine.taobao.org/book/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
+&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
 </description>
     </item>
     
@@ -363,7 +398,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/about/</guid>
       <description>
 
-&lt;h2 id=&#34;未来:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
+&lt;h2 id=&#34;未来&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
 </description>
     </item>
     

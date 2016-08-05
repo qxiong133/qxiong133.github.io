@@ -20,7 +20,7 @@
       <guid>http://qxiong133.github.io/research/tsp/</guid>
       <description>
 
-&lt;h2 id=&#34;tsp-problem:ebe5be44c2c036762f3f67360b0559ee&#34;&gt;TSP PROBLEM&lt;/h2&gt;
+&lt;h2 id=&#34;tsp-problem&#34;&gt;TSP PROBLEM&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://developers.google.com/optimization/routing/tsp&#34;&gt;Traveling Salesman Problem&lt;/a&gt;&lt;/li&gt;
@@ -38,7 +38,7 @@
       <guid>http://qxiong133.github.io/ideas/</guid>
       <description>
 
-&lt;h2 id=&#34;个人想法&#34;&gt;个人想法&lt;/h2&gt;
+&lt;h2 id=&#34;个人想法:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;个人想法&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;编程大赛&lt;/li&gt;
@@ -51,7 +51,7 @@
 &lt;li&gt;一个开源项目 + 视频教学&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;算法之路&#34;&gt;算法之路&lt;/h2&gt;
+&lt;h2 id=&#34;算法之路:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;算法之路&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/35485418&#34;&gt;leetcode 中有哪些题的解法让你拍案叫绝&lt;/a&gt; provider right answer&lt;/li&gt;
@@ -81,13 +81,14 @@
 
 &lt;blockquote&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1433399/&#34;&gt;Introduction to Algorithms&lt;/a&gt; todo&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1475870/&#34;&gt;Algorithm Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1433399/&#34;&gt;Introduction to Algorithms&lt;/a&gt;算法导论&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1475870/&#34;&gt;Algorithm Design&lt;/a&gt; &lt;a href=&#34;https://book.douban.com/subject/2035809/&#34;&gt;算法设计&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/10436668/&#34;&gt;Cracking the Coding Interview&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/6872527/&#34;&gt;Cracking the Coding Interview: 150 Programming Questions and Solutions(5th edition)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Learn Python the Hard way&lt;/li&gt;
 &lt;li&gt;秋叶拓哉-挑战程序设计竞赛, 刘汝佳翻译的-挑战编程：程序设计竞赛训练手册&lt;/li&gt;
 &lt;li&gt;刘汝佳 算法竞赛入门经典&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/4048566/&#34;&gt;算法设计手册&lt;/a&gt; &lt;a href=&#34;https://book.douban.com/subject/3072383/&#34;&gt;The Algorithm Design Manual&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 </description>
