@@ -60,7 +60,7 @@
       <guid>http://qxiong133.github.io/ideas/</guid>
       <description>
 
-&lt;h2 id=&#34;个人想法:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;个人想法&lt;/h2&gt;
+&lt;h2 id=&#34;个人想法&#34;&gt;个人想法&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;编程大赛&lt;/li&gt;
@@ -73,7 +73,7 @@
 &lt;li&gt;一个开源项目 + 视频教学&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;算法之路:85616c9715bbdc812e16deb4b0c5527c&#34;&gt;算法之路&lt;/h2&gt;
+&lt;h2 id=&#34;算法之路&#34;&gt;算法之路&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/35485418&#34;&gt;leetcode 中有哪些题的解法让你拍案叫绝&lt;/a&gt; provider right answer&lt;/li&gt;
@@ -179,8 +179,21 @@
 &lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt; &lt;a href=&#34;https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html&#34;&gt;OpenResty最佳实践&lt;/a&gt;
 
 &lt;ul&gt;
-&lt;li&gt;openrest 如何集成到nginx
-and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;openrest 如何集成到nginx and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;nginx+lua 使用
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jinnianshilongnian.iteye.com/blog/2186270&#34;&gt;Nginx+Lua两章&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jinnianshilongnian.iteye.com/blog/2280928&#34;&gt;使用Nginx+Lua(OpenResty)开发高性能Web应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://zqscm.qiniucdn.com/data/20140809215932/index.html&#34;&gt;ngx-lua源码阅读笔记(1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.csdn.net/liujiyong7/article/details/37692027&#34;&gt;ngx lua模块源码简单解析&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;原理相关
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://m.blog.csdn.net/article/details?id=9130237&#34;&gt;Nginx学习之一&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tengine.taobao.org/book/index.html&#34;&gt;Nginx开发从入门到精通&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;3. gunicore +  &lt;strong&gt;nsq&lt;/strong&gt; + codis + docker&lt;/li&gt;
 &lt;li&gt;4. &lt;a href=&#34;http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/&#34;&gt;浏览器的工作原理：新式网络浏览器幕后揭秘&lt;/a&gt;&lt;/li&gt;
@@ -215,18 +228,20 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 &lt;li&gt;&lt;a href=&#34;http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html&#34;&gt;大众点评支付渠道网关系统的实践之路&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;bootstrap + vuejs + requirejs + vuex + webpack + nginx lua + django + nsq&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;bootstrap + vuejs + requirejs + vux + webpack + nginx lua + django + nsq&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;bootstrap + vuejs + requirejs + webpack + vuex + bootflat
+&lt;li&gt;&lt;p&gt;bootstrap + vuejs + requirejs + webpack + vux + bootflat&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;前端代码组织结构&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.sitepoint.com/good-front-end-architecture/&#34;&gt;A Good Front-End Architecture&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/vuejs/awesome-vue#tutorials&#34;&gt;vuejs/awesome-vue&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;还是使用架手架生成代码框架 vue-cli&lt;/li&gt;
+&lt;li&gt;vue没有调通&lt;a href=&#34;https://github.com/airyland/vux&#34;&gt;airyland/vux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;django core
+
+&lt;li&gt;&lt;p&gt;django core&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;fileupload&lt;/li&gt;
@@ -255,6 +270,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;review django document and restful document&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://django-rest-swagger.readthedocs.io/en/stable-0.3.x/&#34;&gt;Django REST Swagger&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
@@ -354,27 +370,27 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/source/nginx_study/</guid>
       <description>
 
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
 and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;nginx学习资源汇总:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
+&lt;h2 id=&#34;nginx学习资源汇总&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
 
 &lt;p&gt;《深入理解Nginx &amp;ndash; 模块开发与架构解析》 （注：超级精彩的一本书，入门必备）&lt;/p&gt;
 
-&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;使用下面的地址进行编译，另外保存一份到了网盘
 &lt;a href=&#34;http://nginx.org/download/nginx-1.0.15.tar.gz&#34;&gt;http://nginx.org/download/nginx-1.0.15.tar.gz&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;从学习nginx的upstream模块-lua:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
+&lt;h1 id=&#34;从学习nginx的upstream模块-lua&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
 
-&lt;h1 id=&#34;深入upstream模块:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;深入upstream模块&lt;/h1&gt;
+&lt;h1 id=&#34;深入upstream模块&#34;&gt;深入upstream模块&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://tengine.taobao.org/book/&#34;&gt;http://tengine.taobao.org/book/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
+&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
 </description>
     </item>
     
