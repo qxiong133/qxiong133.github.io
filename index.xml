@@ -20,11 +20,11 @@
       <guid>http://qxiong133.github.io/tools/draft/</guid>
       <description>
 
-&lt;h2 id=&#34;tmux-shortcut-tmux-shortcuts-cheatsheet-https-gist-github-com-mohamedalaa-2961058:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;tmux shortcut&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;tmux shortcuts &amp;amp; cheatsheet&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;tmux-shortcut-tmux-shortcuts-cheatsheet-https-gist-github-com-mohamedalaa-2961058&#34;&gt;tmux shortcut&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;tmux shortcuts &amp;amp; cheatsheet&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;chroot-with-yum-how-to-build-a-chroot-jail-environment-for-centos-http-geek-co-il-2010-03-14-how-to-build-a-chroot-jail-environment-for-centos:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;chroot with yum &lt;a href=&#34;http://geek.co.il/2010/03/14/how-to-build-a-chroot-jail-environment-for-centos&#34;&gt;How to build a chroot jail environment for CentOS&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;chroot-with-yum-how-to-build-a-chroot-jail-environment-for-centos-http-geek-co-il-2010-03-14-how-to-build-a-chroot-jail-environment-for-centos&#34;&gt;chroot with yum &lt;a href=&#34;http://geek.co.il/2010/03/14/how-to-build-a-chroot-jail-environment-for-centos&#34;&gt;How to build a chroot jail environment for CentOS&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;frontend:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;frontend&lt;/h2&gt;
+&lt;h2 id=&#34;frontend&#34;&gt;frontend&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;https://gist.github.com/MohamedAlaa/2961058&lt;/a&gt;&lt;/li&gt;
@@ -58,62 +58,7 @@
       <pubDate>Thu, 18 Feb 2016 07:49:08 +0000</pubDate>
       <author>qxiong133@163.com (codejoyer)</author>
       <guid>http://qxiong133.github.io/ideas/</guid>
-      <description>
-
-&lt;h2 id=&#34;个人想法&#34;&gt;个人想法&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;编程大赛&lt;/li&gt;
-&lt;li&gt;写书&lt;/li&gt;
-&lt;li&gt;演讲&lt;/li&gt;
-&lt;li&gt;一个提供服务的网站&lt;/li&gt;
-&lt;li&gt;培训机构兼职&lt;/li&gt;
-&lt;li&gt;刷题提升目前工作&lt;/li&gt;
-&lt;li&gt;elance/freelance&lt;/li&gt;
-&lt;li&gt;一个开源项目 + 视频教学&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;算法之路&#34;&gt;算法之路&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/35485418&#34;&gt;leetcode 中有哪些题的解法让你拍案叫绝&lt;/a&gt; provider right answer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/26243279&#34;&gt;刷leetcode对去北美找工作面试真的帮助很大吗？对面试国内的公司比如bat有没有帮助？&lt;/a&gt; how to prepare interview&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;leetcode蛮有用的，我当时刷了80%，感觉对所有面试题都能短时间给一个大概的答案。没在国内找过工作，所以不好说。
-大家干这行的，如果想换工作，都会去刷题，因为面试能力和你平时的工作能力其实差别挺大的。你表示自己能熟悉各种machine learning，随意实现dbn，rbm，q-learning蒙特卡罗，可一段时间不刷题，一下碰上写个thread-safe circular linked-list还真一下反应不过来。
-我觉得题主提问是求面经，而且是问我们寻常人该怎么准备面试，也不是来看几位大牛吹水的。我就分享下自己找工作时候的一些准备过程。&lt;/p&gt;
-
-&lt;p&gt;认真看了一本算法书，整理了一下自己的算法体系，像算法导论，或者Algorithm Design by Jon Kleinberg 也挺不错的。花一周认真看看，如果你连几个search，tree都不熟的话还是多花点时间。。好处是你给自己建立了一个自洽的算法脉络，以后看面试题，或者处理其他一些现实问题，你都会不由自主的去把问题抽象化，然后归类，我自觉这种思考方式使我受益良多。&lt;/p&gt;
-
-&lt;p&gt;看一下Cracking the code interview.这本书大家应该都说烂了，但这本书长盛不衰必然也是有理由的。它的题量不多，书里废话也挺多。但它的好处是，它做了一个整理面试题然后归类的过程，而且基本把你可能遇到的所有面试题类型都覆盖了。&lt;/p&gt;
-
-&lt;p&gt;然后开始刷leetcode吧，从简到难，认真刷一遍。建议不要用任何ide，打开没有error check的text editor（emacs，vim， notepad++ etc)&lt;/p&gt;
-
-&lt;p&gt;最好在有几个可以吹水的领域。因为面试不是一个单纯做题的过程，对于我们平凡人而言，既然不能一直秒杀面试官，那就想得正常点，和面试官交个朋友。而做技术的，大多数都乐意结交那些知道一些自己所不懂领域的人。我记得我面的时候，还给人划过Android整个system stack，从dalvik画到kernel，还有人跟我聊在microkernel system design之类的。&lt;/p&gt;
-
-&lt;p&gt;保持一个积极的心态。我知道知乎有很些大神谈面经就是“我从来没被拒过“，但你要相信，这世界上还是平凡人居多的。我的朋友，包括我自己，在面试中都是一个越挫越勇的过程。像我一个朋友，他被google，twitter，apple，microsoft都拒过，但最后去了Facebook，还有一个朋友被google，square拒过，最后拒了amazon去了一家startup，现在已经被某大公司收购，走上高富帅之路。我被facebook，amazon拒过，google intern拒过一次，但microsoft就走的很顺，后来google很奇葩的把我面试时间schedule错了，我过了第一轮，签了MS就不再面了。所以无论遇到什么困难，都要保持乐观，你不是一个人，平凡人也有很多，要相信自己&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;the rest link &lt;a href=&#34;https://www.zhihu.com/question/34615079&#34;&gt;Leetcode刷完了第一次，用了一个半月，完全人肉debug，接受率不到20%，第二次该如何刷？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;associate book&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1433399/&#34;&gt;Introduction to Algorithms&lt;/a&gt;算法导论&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/1475870/&#34;&gt;Algorithm Design&lt;/a&gt; &lt;a href=&#34;https://book.douban.com/subject/2035809/&#34;&gt;算法设计&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/10436668/&#34;&gt;Cracking the Coding Interview&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/6872527/&#34;&gt;Cracking the Coding Interview: 150 Programming Questions and Solutions(5th edition)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Learn Python the Hard way&lt;/li&gt;
-&lt;li&gt;秋叶拓哉-挑战程序设计竞赛, 刘汝佳翻译的-挑战编程：程序设计竞赛训练手册&lt;/li&gt;
-&lt;li&gt;刘汝佳 算法竞赛入门经典&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://book.douban.com/subject/4048566/&#34;&gt;算法设计手册&lt;/a&gt; &lt;a href=&#34;https://book.douban.com/subject/3072383/&#34;&gt;The Algorithm Design Manual&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -122,244 +67,7 @@
       <pubDate>Thu, 04 Feb 2016 07:51:07 +0000</pubDate>
       <author>qxiong133@163.com (codejoyer)</author>
       <guid>http://qxiong133.github.io/todolist/</guid>
-      <description>
-
-&lt;h3 id=&#34;daily:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;daily:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;body exercise + song + &lt;strong&gt;知米&lt;/strong&gt; + algorithm competition + 知米listen + new concept +  develop news&lt;/li&gt;
-&lt;li&gt;mathematical modeling + kernel + compiler + tcp/ip/http + db&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;leetcode&lt;/strong&gt;/just for fun/algorithm competition/ zenguofan&lt;/li&gt;
-&lt;li&gt;machine leaning&lt;/li&gt;
-&lt;li&gt;sicp&lt;a href=&#34;http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/?from=timeline&amp;amp;isappinstalled=0&#34;&gt;learn sicp&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;tools-6-4-15-9-10:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;tools:6,4,15,9,10,&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;4. shortcut of spf13&amp;rsquo;s all pulgins &lt;a href=&#34;https://github.com/spf13/spf13-vim&#34;&gt;git address&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;6. banwagon vpn ansible deploy&lt;/li&gt;
-&lt;li&gt;shadowsocks server&lt;/li&gt;
-&lt;li&gt;pptp vpn&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;learn &lt;a href=&#34;http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_special_topics.html&#34;&gt;ansible&lt;/a&gt;
-&lt;a href=&#34;https://github.com/leucos/ansible-tuto&#34;&gt;ansible-tuto&lt;/a&gt; and &lt;a href=&#34;https://github.com/ftao/vpn-deploy-playbook&#34;&gt;vpn-deploy-playbook&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;xmonad/&lt;a href=&#34;http://www.draconianoverlord.com/2014/05/26/from-xmonad-to-i3.html&#34;&gt;i3&lt;/a&gt; is the better + tmux + vim + firefox + pentadactyl + zeal&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;i3: &lt;a href=&#34;https://xpressrazor.wordpress.com/2014/01/27/introduction-to-i3/&#34;&gt;Introduction to i3&lt;/a&gt; and &lt;a href=&#34;https://www.linux.com/learn/tutorials/766143-how-to-use-the-superfast-i3-tiling-window-manager-on-linux&#34;&gt;How to Use the Super Fast i3 Tiling Window Manager on Linux &lt;/a&gt;
-&lt;a href=&#34;https://i3wm.org/docs/userguide.html&#34;&gt;i3 User’s Guide&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;archlinx + awesome window manager + vimperator firfox + idea vim plugin&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;一个u盘备份系统/备份server_package文件到网盘,怎么自动化呢&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;vagrant_libvirt &lt;a href=&#34;https://github.com/pradels/vagrant-libvirt&#34;&gt;document&lt;/a&gt;/kvm book about bridge network / how to write dockerfile&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;grogs + drone + docker&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://wowubuntu.com/markdown/index.html#header&#34;&gt;markdown&lt;/a&gt;
-&lt;a href=&#34;https://www.zybuluo.com/mdeditor&#34;&gt;Cmd Markdown 编辑阅读器&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;source-2-3:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;source:2,3&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2. nginx + openresty (开发一个openresty c plugin)&lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;
-&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt; &lt;a href=&#34;https://moonbingbing.gitbooks.io/openresty-best-practices/content/ngx_lua/block_io.html&#34;&gt;OpenResty最佳实践&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;openrest 如何集成到nginx and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;nginx+lua 使用
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://jinnianshilongnian.iteye.com/blog/2186270&#34;&gt;Nginx+Lua两章&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://jinnianshilongnian.iteye.com/blog/2280928&#34;&gt;使用Nginx+Lua(OpenResty)开发高性能Web应用&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://zqscm.qiniucdn.com/data/20140809215932/index.html&#34;&gt;ngx-lua源码阅读笔记(1)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.csdn.net/liujiyong7/article/details/37692027&#34;&gt;ngx lua模块源码简单解析&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;原理相关
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://m.blog.csdn.net/article/details?id=9130237&#34;&gt;Nginx学习之一&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tengine.taobao.org/book/index.html&#34;&gt;Nginx开发从入门到精通&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;3. gunicore +  &lt;strong&gt;nsq&lt;/strong&gt; + codis + docker&lt;/li&gt;
-&lt;li&gt;4. &lt;a href=&#34;http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/&#34;&gt;浏览器的工作原理：新式网络浏览器幕后揭秘&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;5. lua解释器&lt;/li&gt;
-&lt;li&gt;6. kernel&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;jobs:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;jobs:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;colleague zhangjian&amp;rsquo;s ansible script + nginx proxy pip + vanish&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-&lt;li&gt;dev machine 使用chroot实现开发环境隔离  可以玩玩lfs&lt;/li&gt;
-&lt;li&gt;opserver  运维中控机  缓存 静态文件 中控ansible  openrest&amp;ndash;api gateway&lt;/li&gt;
-&lt;li&gt;app  bootstrap react django&lt;/li&gt;
-&lt;li&gt;online service  es nsq codis mysql_proxy&amp;hellip;&lt;/li&gt;
-&lt;li&gt;data service hadoop spark&lt;/li&gt;
-&lt;li&gt;tools service gogs dron.io wiki &amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;ol&gt;
-&lt;li&gt;交易系统架构&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://wenku.baidu.com/view/7daa609d376baf1ffd4fad09.html&#34;&gt;美团支付平台产品规划——4月26日&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/meituan/07-62250372&#34;&gt;美团点评技术沙龙07 - 大众点评支付渠道网关系统实践&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tech.meituan.com/high-availability-systems-dianping.html&#34;&gt;高可用性系统在大众点评的实践与经验&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tech.meituan.com/The-Practice-of-Dianping-Channel-Gateway.html&#34;&gt;大众点评支付渠道网关系统的实践之路&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;bootstrap + vuejs + requirejs + vux + webpack + nginx lua + django + nsq&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;bootstrap + vuejs + requirejs + webpack + vux + bootflat&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;前端代码组织结构&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sitepoint.com/good-front-end-architecture/&#34;&gt;A Good Front-End Architecture&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/vuejs/awesome-vue#tutorials&#34;&gt;vuejs/awesome-vue&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;还是使用架手架生成代码框架 vue-cli&lt;/li&gt;
-&lt;li&gt;vue没有调通&lt;a href=&#34;https://github.com/airyland/vux&#34;&gt;airyland/vux&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;django core&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;fileupload&lt;/li&gt;
-&lt;li&gt;imageupload to db with thumbnail&lt;/li&gt;
-&lt;li&gt;session login + token login + weixin login&lt;/li&gt;
-&lt;li&gt;xadmin&lt;/li&gt;
-&lt;li&gt;input serializer and output serilaizer and with swagger doc&lt;/li&gt;
-&lt;li&gt;xadmin&lt;/li&gt;
-&lt;li&gt;django tdd + mock + factory + factory init db data to qality assurance
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://adamj.eu/tech/2014/09/03/factory-boy-fun/&#34;&gt;Factory Boy Fun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;使用django的command 在里面调用factory的具体类别 就能再数据库生成测试数据&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;django migration&lt;/li&gt;
-&lt;li&gt;benchmark&lt;/li&gt;
-&lt;li&gt;perfomance(1.setting slow sql switch open 2. every fun&amp;rsquo;s time consume)
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.morethanseven.net/2011/06/30/Django-performance-1-measuring-performance/&#34;&gt;Django Performance Patterns 1: Measuring Performance&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;这里面使用profiling middleware是我们需要的 可以分析接口的每个函数的调用已经消耗的时间&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://code.djangoproject.com/wiki/ProfilingDjango&#34;&gt;Profiling Django&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/questions/17108810/django-log-filter-for-slow-sql-queries&#34;&gt;Django log filter for slow SQL queries&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;review django document and restful document&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://django-rest-swagger.readthedocs.io/en/stable-0.3.x/&#34;&gt;Django REST Swagger&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;c swig compile&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;np problem&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;增长黑客书   增长黑客工具 (微博用户 微信用户 qq用户 淘宝用户) google广告插件/baidu/阿里  阿里云服务通过淘宝买8.5折扣&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.shareditor.com/blogshow/?blogId=2&#34;&gt; 教你成为全栈工程师(Full Stack Developer) &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;博客&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;如何写技术设计文档 在谷歌文档里面&lt;/li&gt;
-&lt;li&gt;流程和渠道的设计模式 控制反转ioc 依赖注入di&lt;br /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://laravelacademy.org/post/769.html&#34;&gt;Laravel 服务容器实例教程 —— 深入理解控制反转（IoC）和依赖注入（DI）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;这边需要一个processon.com的uml图 &lt;a href=&#34;https://app.genmymodel.com/edit/_qEg1wD2tEeasXOwdiC7aMg/_qEhc0j2tEeasXOwdiC7aMg#&#34;&gt;联名会员流程和渠道设计模式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;日本的几本书&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;产品 运营 bp books&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;转发朋友圈的动机  炫耀 激励 知识传播&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;翻译技术文章&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;优秀的人才标准 聪明 谦虚 &amp;ndash; 为什么是这个标准 自己如何成为 招人标准 招人学问&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;情商问题 来自知乎的情商提高问题 说话和读书的动机 1情绪的发泄 2理性传播知识 3情感沟通&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;如何定义自己的价值  提升自己cpu结构&amp;ndash;内功 同样的信息输入 有自己的理解产出 并且是有深度且对人有帮助的 而不是信息的传递者&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;如何结交朋友与维系 要求有广度多参加各种活动  有深度 兴趣维系&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;大数据基础服务  +  广告策略服务 + 反垃圾  + 运维&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ansible 部署 haddoop spark&lt;/li&gt;
-&lt;li&gt;小米的运维系统&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;nsq readding&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;相关链接&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.rayxxzhang.com/categories/nsq源码解析/&#34;&gt;RayXXZhang的博客&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://shanks.leanote.com/post/NSQ源码剖析之NSQD&#34;&gt;NSQ源码剖析之nsqd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://feixiao.github.io/tags/NSQ/&#34;&gt;Frank&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.baiyuxiong.com/?p=873&#34;&gt;nsq&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;1.部署使用 熟悉业务场景&lt;/li&gt;
-&lt;li&gt;2.总体阅读 总体框架 结构图  2  如果有总体框架可以看 可以先总体 如果没有总体图 只能先看3然后形成总体&lt;/li&gt;
-&lt;li&gt;3.概念 业务场景数据流(看懂数据流过的每个组件功能 看懂业务模块 在看实现业务的底层模块) 启动流程(启动每个组件之间的关系) 最后产出架构图  把代码checkout出来一份 好习惯边看边注释 然后把关键注释的东西拿出来做博客 2&lt;/li&gt;
-&lt;li&gt;nsqd 如果挂了 生产者发送的消息是给nsqlookup? 接受的work如何容错 多个nsqd?&lt;/li&gt;
-&lt;li&gt;4.随心所欲修改框架 针对客户端的实时推送框架 聊天框架 深入go语言的源码&lt;/li&gt;
-&lt;li&gt;5.对比其他框架/组件&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;python 进阶&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;c++ 源码框架阅读 比如mudo&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;从浏览器到内核 人类世界从现实往虚拟迁移&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;blog:3f2b4cca1726280b934fa7ea156766d2&#34;&gt;blog:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;计算机的江湖  技术篇
-道  思维模式 开脑洞 刨根问底 分享 归纳 演绎 分类
-器  操作系统 编译 算法 网络 巩固新的思维模式
-术  工具 技巧&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;计算机的江湖  管理篇
-道  思维模式
-器
-术
-管理者善用你的信任值
-自由 成长的环境
-严纪与活力
-加班问题&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -402,7 +110,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/tools/hugo/</guid>
       <description>
 
-&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
@@ -414,7 +122,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/about/</guid>
       <description>
 
-&lt;h2 id=&#34;未来&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
+&lt;h2 id=&#34;未来:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
 </description>
     </item>
     
