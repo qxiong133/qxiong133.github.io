@@ -20,11 +20,11 @@
       <guid>http://qxiong133.github.io/tools/draft/</guid>
       <description>
 
-&lt;h2 id=&#34;tmux-shortcut-tmux-shortcuts-cheatsheet-https-gist-github-com-mohamedalaa-2961058:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;tmux shortcut&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;tmux shortcuts &amp;amp; cheatsheet&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;tmux-shortcut-tmux-shortcuts-cheatsheet-https-gist-github-com-mohamedalaa-2961058&#34;&gt;tmux shortcut&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;tmux shortcuts &amp;amp; cheatsheet&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;chroot-with-yum-how-to-build-a-chroot-jail-environment-for-centos-http-geek-co-il-2010-03-14-how-to-build-a-chroot-jail-environment-for-centos:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;chroot with yum &lt;a href=&#34;http://geek.co.il/2010/03/14/how-to-build-a-chroot-jail-environment-for-centos&#34;&gt;How to build a chroot jail environment for CentOS&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;chroot-with-yum-how-to-build-a-chroot-jail-environment-for-centos-http-geek-co-il-2010-03-14-how-to-build-a-chroot-jail-environment-for-centos&#34;&gt;chroot with yum &lt;a href=&#34;http://geek.co.il/2010/03/14/how-to-build-a-chroot-jail-environment-for-centos&#34;&gt;How to build a chroot jail environment for CentOS&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;frontend:e8cd9c1cd7d648d99d1df69f6263ab48&#34;&gt;frontend&lt;/h2&gt;
+&lt;h2 id=&#34;frontend&#34;&gt;frontend&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34;&gt;https://gist.github.com/MohamedAlaa/2961058&lt;/a&gt;&lt;/li&gt;
@@ -42,7 +42,7 @@
       <guid>http://qxiong133.github.io/research/tsp/</guid>
       <description>
 
-&lt;h2 id=&#34;tsp-problem:ebe5be44c2c036762f3f67360b0559ee&#34;&gt;TSP PROBLEM&lt;/h2&gt;
+&lt;h2 id=&#34;tsp-problem&#34;&gt;TSP PROBLEM&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://developers.google.com/optimization/routing/tsp&#34;&gt;Traveling Salesman Problem&lt;/a&gt;&lt;/li&gt;
@@ -78,27 +78,27 @@
       <guid>http://qxiong133.github.io/source/nginx_study/</guid>
       <description>
 
-&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-nginx-openresty-agentzh-nginx-https-openresty-org-download-agentzh-nginx-tutorials-zhcn-html-02-nginxdirectiveexecorder11:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;2. nginx + openresty &lt;a href=&#34;https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#02-NginxDirectiveExecOrder11&#34;&gt;agentzh nginx&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.zhihu.com/question/20857459&#34;&gt;如何高效的学习Nginx源码&lt;/a&gt;
 and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;nginx-1.0.14_comment&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;nginx学习资源汇总&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
+&lt;h2 id=&#34;nginx学习资源汇总:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;nginx学习资源汇总：&lt;/h2&gt;
 
 &lt;p&gt;《深入理解Nginx &amp;ndash; 模块开发与架构解析》 （注：超级精彩的一本书，入门必备）&lt;/p&gt;
 
-&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;原来的注释版本部分编译通过功能https-github-com-jianfengye-nginx-1-0-14-comment:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;原来的注释版本部分编译通过功能&lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;https://github.com/jianfengye/nginx-1.0.14_comment&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;使用下面的地址进行编译，另外保存一份到了网盘
 &lt;a href=&#34;http://nginx.org/download/nginx-1.0.15.tar.gz&#34;&gt;http://nginx.org/download/nginx-1.0.15.tar.gz&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;从学习nginx的upstream模块-lua&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
+&lt;h1 id=&#34;从学习nginx的upstream模块-lua:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;从学习nginx的upstream模块 + lua&lt;/h1&gt;
 
-&lt;h1 id=&#34;深入upstream模块&#34;&gt;深入upstream模块&lt;/h1&gt;
+&lt;h1 id=&#34;深入upstream模块:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;深入upstream模块&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://tengine.taobao.org/book/&#34;&gt;http://tengine.taobao.org/book/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
+&lt;h1 id=&#34;研究代码自己fork一份-然后在上面疯狂的写注释-选取业务场景-加断点调试:1da1b7d5c01ab3bac077892a9b3f8ca3&#34;&gt;研究代码自己fork一份,然后在上面疯狂的写注释,选取业务场景,加断点调试&lt;/h1&gt;
 </description>
     </item>
     
@@ -110,7 +110,7 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/tools/hugo/</guid>
       <description>
 
-&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;学习hugo使用-地址-http-www-gohugo-org-post-coderzh-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;学习hugo使用&lt;a href=&#34;http://www.gohugo.org/post/coderzh-hugo/&#34;&gt;地址&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
@@ -122,9 +122,9 @@ and &lt;a href=&#34;https://github.com/jianfengye/nginx-1.0.14_comment&#34;&gt;n
       <guid>http://qxiong133.github.io/about/</guid>
       <description>
 
-&lt;h2 id=&#34;未来:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
+&lt;h2 id=&#34;未来&#34;&gt;未来&amp;hellip;&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://qxiong133.github.io/DeepinScrot-0216.png&#34; alt=&#34;aa&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://qxiong133.github.io/img/1038447_34.jpg&#34; alt=&#34;测试图片&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
